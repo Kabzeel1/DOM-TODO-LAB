@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: ;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  background: cornsilk;
+}
+
+h1{
+  font-size: 30px
+}
+
