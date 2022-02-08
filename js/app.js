@@ -12,7 +12,7 @@ todo.value = ''
 })
 
 resetBtn.addEventListener('click', function(event){
-todo.innerHTML = ''
-list.value = ''
+list.innerHTML = ''
+todo.value = ''
 }
 )
